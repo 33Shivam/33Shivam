@@ -8,3 +8,8 @@
 33Shivam/33Shivam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Hosted Demo Works:- 
+- https://goldfish-app-6yncq.ondigitalocean.app/
+- https://hammerhead-app-2-san8a.ondigitalocean.app/
+- https://hammerhead-app-j3gsd.ondigitalocean.app/
+- https://urchin-app-2-47pqs.ondigitalocean.app/
